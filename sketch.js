@@ -1,3 +1,4 @@
+//commit//
 let mode;
 let timer = 60;
 let score1 = 0;
